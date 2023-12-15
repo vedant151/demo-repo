@@ -8,7 +8,3 @@ async function doSomething(){
 
 let d = Date.now()
 console.log(d);
-
-
-
-
