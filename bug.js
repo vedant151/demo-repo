@@ -1,3 +1,5 @@
+// Make sure you merge this file with master branch..
+
 async function doSomething(){
     setTimeout(()=>{
         console.log('Hey log something after 1 sec');
